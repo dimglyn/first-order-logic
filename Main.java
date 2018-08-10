@@ -1,5 +1,3 @@
-// Dimitris Glynatsis 3140036  Konstantinos Karakaksidis 3140071 Lampros Gavalakis 3130031
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
